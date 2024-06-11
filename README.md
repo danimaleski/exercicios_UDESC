@@ -25,3 +25,6 @@ Exercícios da aula de Mobile:
   - https://github.com/danimaleski/Reserva-Spring
   - https://github.com/danimaleski/ReservaDeSala
 
+Exercícios da aula de Banco de Dados I/II:
+  - https://github.com/danimaleski/BD
+
