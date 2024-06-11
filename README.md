@@ -4,6 +4,7 @@ Trabalho e exercícios da aula de POO:
   - https://github.com/danimaleski/Truco 
   - https://github.com/danimaleski/SuperTrunfo
   - https://github.com/danimaleski/Visibilidade
+  - https://github.com/danimaleski/ShowDoMilhao
 
 Exercícios da aula de LGP:
   - https://github.com/danimaleski/Exercicios
