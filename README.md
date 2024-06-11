@@ -1,1 +1,2 @@
-# Exerc-cios_UDESC
+# Exercícios UDESC
+
